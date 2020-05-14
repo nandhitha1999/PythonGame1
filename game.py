@@ -1,8 +1,7 @@
 # THE ROCK-PAPER-SCISSORS-LIZARD-SPOCK GAME
 
 
-# The main idea of the program is achieved by equating strings
-# "rock", "paper", "scissors", "lizard", "Spock" to integer numbers
+# The main idea of the program is achieved by equating strings "rock", "paper", "scissors", "lizard", "Spock" to integers
 # The assigments are as follows:
 
 # 0 - rock
