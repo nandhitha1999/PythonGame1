@@ -16,5 +16,5 @@ GAME RULES:
   -- Lizard eats Paper
   -- Paper disproves Spock
   -- Spock vaporizes Rock
-  -- Rock crushes Scissors
+  
 
