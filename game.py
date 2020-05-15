@@ -27,7 +27,6 @@ def convert_number_to_name(number):
     else:
         return "ERROR"
 
-    
 def convert_name_to_number(name):
    
     if name == "rock":
